@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem "fastlane", "~> 2.238"
+gem "fastlane", "~> 2.239"
 gem "cocoapods", "~> 1.17"
 gem "xcodeproj", "~> 1.27"
